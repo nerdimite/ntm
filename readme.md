@@ -2,11 +2,6 @@
 
 Neural Turing Machine is a neural network (LSTM Cell) coupled with an external memory with which the neural network interacts (read and write) using attention processes. NTMs can be used as a model-based technique for meta-learning.
 
-This repository is part of first of a three-part webinar series on Meta Learning.
-1. [Metric-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271470964/)
-2. [Model-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271778989/) (this)
-3. [Optimization-based Meta Learning](https://www.meetup.com/Disrupt-4-0/events/271778940/)
-
 ## Requirements
 * PyTorch
 * Torchvision
